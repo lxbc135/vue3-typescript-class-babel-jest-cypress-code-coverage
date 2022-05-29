@@ -1,0 +1,4 @@
+{
+  "extension": [".ts", ".vue"],
+  "report-dir": "results/cypress-coverage"
+}

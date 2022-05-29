@@ -1,4 +1,5 @@
 # vue3-typescript-class-babel-jest-cypress-code-coverage
+> Vue3, TypeScript class style, Babel, Jest, Cypress code coverage example
 
 ## Project setup
 ```
@@ -23,6 +24,11 @@ yarn test:unit
 ### Run your end-to-end tests
 ```
 yarn test:e2e
+```
+
+### Run unit tests and end-to-end tests, and merge code coverage
+```
+yarn test
 ```
 
 ### Lints and fixes files
